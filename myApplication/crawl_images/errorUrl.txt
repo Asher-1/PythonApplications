@@ -1,0 +1,65 @@
+
+抛出异常： http://www.ww.gansu.gov.cn/images/content/2017-05/20170517093549812647.jpg
+HTTPConnectionPool(host='www.ww.gansu.gov.cn', port=80): Max retries exceeded with url: /images/content/2017-05/20170517093549812647.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002C2F5955F28>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed',))
+抛出异常： http://www.ww.gansu.gov.cn/images/content/2017-05/20170517093549812647.jpg
+HTTPConnectionPool(host='www.ww.gansu.gov.cn', port=80): Max retries exceeded with url: /images/content/2017-05/20170517093549812647.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002C2F7A16BE0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed',))
+抛出异常： http://www.ww.gansu.gov.cn/images/content/2017-05/20170517093549812647.jpg
+HTTPConnectionPool(host='www.ww.gansu.gov.cn', port=80): Max retries exceeded with url: /images/content/2017-05/20170517093549812647.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002C2FAE7D9E8>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed',))
+抛出异常： http://www.ww.gansu.gov.cn/images/content/2017-05/20170517093549812647.jpg
+HTTPConnectionPool(host='www.ww.gansu.gov.cn', port=80): Max retries exceeded with url: /images/content/2017-05/20170517093549812647.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002C2893858D0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed',))
+抛出异常： http://www.ww.gansu.gov.cn/images/content/2017-05/20170517093549812647.jpg
+HTTPConnectionPool(host='www.ww.gansu.gov.cn', port=80): Max retries exceeded with url: /images/content/2017-05/20170517093549812647.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002C2896A24A8>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed',))
+403： http://pic.58pic.com/58pic/17/51/88/91858PICI6M_1024.jpg
+403： http://bpic.ooopic.com/14/01/85/47bOOOPIC1e_1024.jpg%21/fw/780/quality/90/unsharp/true/compress/true
+无法打开图片： http://pic9.997788.com/pic_auction_r/00/00/83/74/ck837463b.jpg
+403： http://bpic.ooopic.com/17/34/48/17344858-ab683ce33f13fa4541727572bc5f1716-3.jpg
+404： http://www.lznews.cn/uploadfile/2013/0409/20130409074617974.jpg
+404： http://www.119.cn/xfxc/images/attachement/jpg/site1/20140317/94de80ca0f181490aead0a.JPG
+抛出异常： http://f1.diyitui.com/d3/fe/dc/27/bd/2f/89/07/a0/eb/4a/8b/48/e5/d0/e3.jpg
+HTTPSConnectionPool(host='i.dyt6.cc', port=443): Max retries exceeded with url: /d3/fe/dc/27/bd/2f/89/07/a0/eb/4a/8b/48/e5/d0/e3.jpg (Caused by SSLError(SSLError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:719)'),))
+404： http://xceda.xuancheng.gov.cn/data/upfile/32/picture/1410/14102714424158.jpg
+无法打开图片： http://pic9.997788.com/pic_auction_z/00/01/43/19/zc1431905.jpg
+抛出异常： http://pic-cdn.35pic.com/58pic/14/75/46/28258PICSwm.jpg
+HTTPConnectionPool(host='pic-cdn.35pic.com', port=80): Max retries exceeded with url: /58pic/14/75/46/28258PICSwm.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002C2F2B77CC0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed',))
+404： http://static.fuwo.com/upload/attachment/1603/26/7530f8c0f32a11e5bc0800163e00254c.jpg
+403： http://bpic.ooopic.com/16/41/76/16417606-0a2404d39171e8d8dc85495daa2b1a7e-4.jpg
+403： http://bpic.ooopic.com/17/27/23/17272337-92caa14d28671314e889dc0c87bce021-3.jpg
+403： http://bpic.wotucdn.com/18/78/05/18780547-6f79889fb7552ad1329cc5e81e0f1763-0.jpg
+403： http://bpic.wotucdn.com/18/63/42/18634216-52911944b78f8e544c7210f2dd2a637e-2.jpg
+403： http://bpic.wotucdn.com/18/78/05/18780547-6f79889fb7552ad1329cc5e81e0f1763-1.jpg
+403： http://bpic.wotucdn.com/18/63/42/18634216-52911944b78f8e544c7210f2dd2a637e-6.jpg
+抛出异常： http://www.ttgozg.com/OtherImges/editbox/20140409145434_4895.jpg
+HTTPConnectionPool(host='www.ttgozg.com', port=80): Max retries exceeded with url: /OtherImges/editbox/20140409145434_4895.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000002C288EFC240>, 'Connection to www.ttgozg.com timed out. (connect timeout=15)'))
+404： http://www.xinjiangyaou.com/images/xinjiang/008/2012/12/17/B7983E87932747FFA9DFB04F0A4DE5BC.jpg
+抛出异常： http://ms.hinews.cn/img/20100708/20100708220241_fyhgekht.JPG
+HTTPConnectionPool(host='ms.hinews.cn', port=80): Read timed out.
+抛出异常： http://www.ww.gansu.gov.cn/images/content/2017-05/20170517093549812647.jpg
+HTTPConnectionPool(host='www.ww.gansu.gov.cn', port=80): Max retries exceeded with url: /images/content/2017-05/20170517093549812647.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002C283F47D68>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed',))
+抛出异常： http://www.ww.gansu.gov.cn/images/content/2017-05/20170517093549812647.jpg
+HTTPConnectionPool(host='www.ww.gansu.gov.cn', port=80): Max retries exceeded with url: /images/content/2017-05/20170517093549812647.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002C2FAD27320>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed',))
+抛出异常： http://www.ww.gansu.gov.cn/images/content/2017-05/20170517093549812647.jpg
+HTTPConnectionPool(host='www.ww.gansu.gov.cn', port=80): Max retries exceeded with url: /images/content/2017-05/20170517093549812647.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002C2FAF1BDD8>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed',))
+抛出异常： http://www.ww.gansu.gov.cn/images/content/2017-05/20170517093549812647.jpg
+HTTPConnectionPool(host='www.ww.gansu.gov.cn', port=80): Max retries exceeded with url: /images/content/2017-05/20170517093549812647.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002C2F2B36A58>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed',))
+抛出异常： http://www.ww.gansu.gov.cn/images/content/2017-05/20170517093549812647.jpg
+HTTPConnectionPool(host='www.ww.gansu.gov.cn', port=80): Max retries exceeded with url: /images/content/2017-05/20170517093549812647.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002C2FA6EF9E8>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed',))
+抛出异常： http://photocdn.sohu.com/20081015/Img260045460.jpg
+HTTPConnectionPool(host='photocdn.sohu.com', port=80): Max retries exceeded with url: /20081015/Img260045460.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000002C289CC7DA0>, 'Connection to photocdn.sohu.com timed out. (connect timeout=15)'))
+抛出异常： http://www.ww.gansu.gov.cn/images/content/2017-05/20170517093549812647.jpg
+HTTPConnectionPool(host='www.ww.gansu.gov.cn', port=80): Max retries exceeded with url: /images/content/2017-05/20170517093549812647.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002C2F2B8CD68>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed',))
+抛出异常： http://www.ww.gansu.gov.cn/images/content/2017-05/20170517093549812647.jpg
+HTTPConnectionPool(host='www.ww.gansu.gov.cn', port=80): Max retries exceeded with url: /images/content/2017-05/20170517093549812647.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002C2894FF358>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed',))
+抛出异常： http://www.ww.gansu.gov.cn/images/content/2017-05/20170517093549812647.jpg
+HTTPConnectionPool(host='www.ww.gansu.gov.cn', port=80): Max retries exceeded with url: /images/content/2017-05/20170517093549812647.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002C2F2B610B8>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed',))
+抛出异常： http://www.ww.gansu.gov.cn/images/content/2017-05/20170517093549812647.jpg
+HTTPConnectionPool(host='www.ww.gansu.gov.cn', port=80): Max retries exceeded with url: /images/content/2017-05/20170517093549812647.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002C2F2B3A4A8>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed',))
+抛出异常： http://www.ww.gansu.gov.cn/images/content/2017-05/20170517093549812647.jpg
+HTTPConnectionPool(host='www.ww.gansu.gov.cn', port=80): Max retries exceeded with url: /images/content/2017-05/20170517093549812647.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002C2FB979080>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed',))
+抛出异常： http://e.hznews.com/data/djsb/2015/0508/A24508C_2.jpg
+('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+抛出异常： http://www.ww.gansu.gov.cn/images/content/2017-05/20170517093549812647.jpg
+HTTPConnectionPool(host='www.ww.gansu.gov.cn', port=80): Max retries exceeded with url: /images/content/2017-05/20170517093549812647.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002C2F2B61B38>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed',))
+抛出异常： http://img.jdzj.com/UserDocument/2014d/shi12345678a/Picture/201519161923.jpg
+HTTPConnectionPool(host='img.jdzj.com', port=80): Max retries exceeded with url: /UserDocument/2014d/shi12345678a/Picture/201519161923.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000002C2F2B61710>, 'Connection to img.jdzj.com timed out. (connect timeout=15)'))
+抛出异常： http://www.ww.gansu.gov.cn/images/content/2017-05/20170517093549812647.jpg
+HTTPConnectionPool(host='www.ww.gansu.gov.cn', port=80): Max retries exceeded with url: /images/content/2017-05/20170517093549812647.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002C2874570F0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed',))

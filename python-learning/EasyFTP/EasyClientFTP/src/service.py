@@ -127,8 +127,4 @@ def main():
     print(str(welcome_bytes, encoding='utf-8'))
 
     execute(conn)
-
     conn.close()
-
-
-
