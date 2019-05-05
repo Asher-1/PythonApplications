@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ff4465e3-9dde-45b1-9022-d4f487817f8f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/myApplication/crawl_images/PicDownloader.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myApplication/crawl_images/celeb/bingCrawler.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myApplication/crawl_images/celeb/clean.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myApplication/crawl_images/celeb/getManyPages.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myApplication/crawl_images/spyder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myApplication/crawl_images/spyder_multithreading.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-learning/EasyFTP/EasyClientFTP/src/service.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-learning/EasyFTP/EasyClientFTP/src/service.py" afterDir="false" />
-    </list>
+    <list default="true" id="ff4465e3-9dde-45b1-9022-d4f487817f8f" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +20,7 @@
     <session id="2064540477">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.10" value="2" />
@@ -154,7 +145,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="2375" />
+    <option name="x" value="380" />
     <option name="width" value="1490" />
     <option name="height" value="2075" />
   </component>
